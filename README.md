@@ -4,7 +4,7 @@
 
 
 
-<h1>Call via Custom Sender ID</h1>
+<h1>Call via Custom Caller ID</h1>
 Overview
 
 This repository provides you the best service and instructions for enabling calls via custom sender ID, also known as caller ID spoofing. With the ability to customize the sender ID, users can make calls from numbers that are not their own, enhancing privacy and personalization in communication.
