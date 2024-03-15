@@ -1,0 +1,2 @@
+//You can go through web interface also
+sudo apt update
