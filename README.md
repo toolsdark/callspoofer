@@ -61,7 +61,7 @@ This project is licensed under the MIT License. Please review the license before
 Feel free to reach out to Darkey for any inquiries or assistance regarding the usage of custom sender ID for calls.
 
 <hr>
-Caller ID spoofing is a spoofing attack which causes the telephone network's Caller ID to indicate to the receiver of a call that the originator of the call is a station other than the true originating station. This can lead to a display showing a phone number different from that of the telephone from which the call was placed.[1]
+Caller ID spoofing is a spoofing attack which causes the telephone network's Caller ID to indicate to the receiver of a call that the originator of the call is a station other than the true originating station. This can lead to a display showing a phone number different from that of the telephone from which the call was placed.
 
 The term is commonly used to describe situations in which the motivation is considered malicious by the originator.
 
