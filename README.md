@@ -50,10 +50,11 @@ How to Use this tool?
 You can get a python working script for this or you can get a web interface as well.
 
 
-Contributions
+## Contributions
 
 Contributions to enhance the documentation or provide additional resources are welcome. Please follow the contribution guidelines outlined in the repository.
-License
+
+## License
 
 This project is licensed under the MIT License. Please review the license before using or contributing to the project.
 
